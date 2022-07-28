@@ -4,6 +4,7 @@ exports.xrun = xrun;
 
 xrun.updateEnv(
   {
+    PORT: 3001,
     WEBPACK_DEV_PORT: 0,
     APP_SERVER_PORT: 0
   },

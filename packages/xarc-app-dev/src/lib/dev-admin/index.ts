@@ -1,6 +1,9 @@
 import NixClap from "nix-clap";
 import { AdminServer } from "./admin-server";
 import { setupCleanupHooks } from "./cleanup";
+console.log("===========================");
+console.log("===========================");
+console.log("===========================");
 
 /**
  *

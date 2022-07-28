@@ -44,18 +44,18 @@
     "html-webpack-plugin": "^5.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-redux": "^7.2.0",
-    "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-redux": "^8.0.2",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
     "redux": "^4.0.5",
-    "subapp-react": "^0.0.21",
-    "subapp-redux": "^1.0.30",
-    "subapp-server": "^1.2.4",
-    "subapp-web": "^1.0.47"
+    "subapp-react": "^1.0.0",
+    "subapp-redux": "^2.0.0",
+    "subapp-server": "^2.0.0",
+    "subapp-web": "^2.0.0"
   },
   "devDependencies": {
-    "@xarc/app-dev": "^8.1.6",
-    "@xarc/opt-eslint": "^1.0.0"
+    "@xarc/app-dev": "^11.0.0",
+    "@xarc/opt-eslint": "^3.0.0"
   },
   "fyn": {
     "dependencies": {

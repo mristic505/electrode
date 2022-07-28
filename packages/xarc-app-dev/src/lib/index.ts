@@ -4,6 +4,10 @@ import { loadXarcDevTasks } from "./dev-tasks";
 
 export { loadXarcDevTasks, loadXarcDevTasks as loadDevTasks };
 
+console.log("00000000000000000000000");
+console.log("00000000000000000000000");
+console.log("00000000000000000000000");
+
 export { xrun, xclap } from "./dev-tasks";
 
 /** The require from @xarc/app-dev's directory */

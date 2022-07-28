@@ -8,8 +8,6 @@ process.on("SIGINT", () => {
 
 const electrodeConfippet = require("electrode-confippet");
 const { loadRuntimeSupport } = require("@xarc/app");
-
-//
 const electrodeServer = require("@xarc/fastify-server");
 
 //

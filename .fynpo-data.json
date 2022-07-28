@@ -1,0 +1,23 @@
+{
+  "indirects": {
+    "samples/poc-subapp-min-fastify": [
+      {
+        "fromPkg": {
+          "name": "poc-subapp",
+          "version": "0.0.1",
+          "path": "samples/poc-subapp-min-fastify"
+        },
+        "onPkg": {
+          "name": "subapp-web",
+          "version": "1.0.52",
+          "path": "packages/subapp-web"
+        },
+        "depSection": "dep",
+        "indirectSteps": [
+          "poc-subapp@0.0.1(pkg)"
+        ]
+      }
+    ]
+  },
+  "__timestamp": 1658351733505
+}
